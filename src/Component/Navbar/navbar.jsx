@@ -17,8 +17,6 @@ import Badge from 'react-bootstrap/Badge';
 import Stack from 'react-bootstrap/Stack';
 
 export default function Header() {
-
-  // const language= useSelector((state)=>state.language.language)
   const dispatch = useDispatch()
   const favorites = useSelector(state => state.favorites.favorites);
   const movies = useSelector((state) => state.movies.movies)
