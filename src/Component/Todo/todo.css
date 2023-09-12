@@ -1,0 +1,17 @@
+.Parantdiv{
+    background-color: #ff8a65;
+    color: black;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+.myli{
+    list-style: none;
+    margin: 20px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
